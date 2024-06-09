@@ -2,3 +2,5 @@ secret
 console.log
 main.js
 bin/app.bin
+keyengine
+keyengine.pub
