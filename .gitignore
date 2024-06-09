@@ -1,6 +1,10 @@
 secret
 console.log
-main.js
+clear 
+clear.pub
+
 bin/app.bin
-keyengine
-keyengine.pub
+*.keyengine
+.keyengine.pub
+
+
